@@ -1,6 +1,10 @@
 mkdir -p ~/.streamlit/
-echo "\
-[general]\n\
+echo "[theme]
+primaryColor="#f63366"
+backgroundColor="#0e1117"
+secondaryBackgroundColor="#31333F"
+textColor="#fafafa"
+font="sans serif"
 email = \"your-email@domain.com\"\n\
 " > ~/.streamlit/credentials.toml
 echo "\
