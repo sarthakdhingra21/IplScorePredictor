@@ -12,7 +12,7 @@ Click the predict score button and final first innings score will be predicted.<
 <img src="./IplAppFlowchart.png"><br />
 
 
-<img src="./AppInterface.png"><br />
+<img src="./AppInterface.png"><br /><br /> <br /><br />
 <img src="./AppInterface1.png"><br />
 
 
