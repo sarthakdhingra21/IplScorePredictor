@@ -13,7 +13,8 @@ Click the predict score button and final first innings score will be predicted.<
 
 
 <img src="./AppInterface.png"><br />
+<img src="./AppInterface1.png"><br />
 
 
-<h4>Live Link for the Web App</h4>
+<h2>Live Link for the Web App</h2>
 https://ipl21scorepredictor.herokuapp.com/
