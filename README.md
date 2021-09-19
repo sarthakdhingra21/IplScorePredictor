@@ -3,12 +3,12 @@ This is a Machine Learning Web App which is
 integrated with a model built using 
 kaggle dataset of previous ipl years
 
-<h4>Methodology</h4>
+<h2>Methodology</h2>
 Enter the current batting and bowling team. <br />
 Also input current stats like total wickets fallen,overs,current score,runs scored in previous 5 balls,wickets fallen in previous 5 balls.<br />
 Click the predict score button and final first innings score will be predicted.<br />
 
-<h4>Flowchart</h4>
+<h2>Flowchart</h2>
 <img src="./IplAppFlowchart.png"><br />
 
 
@@ -16,5 +16,5 @@ Click the predict score button and final first innings score will be predicted.<
 
 <img src="./AppInterface1.png"><br />
 
-<h5>Live Link for the Web App</h5>
+<h4>Live Link for the Web App</h4>
 https://ipl21scorepredictor.herokuapp.com/
